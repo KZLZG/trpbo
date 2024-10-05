@@ -5,6 +5,6 @@ int main(int argc, char **argv)
 	
 	
 	printf("Enter your name!\n")
-	printf("Hello, Name")
+	printf("Hello,, Name")
 	return 0;
 }
