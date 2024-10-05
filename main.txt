@@ -2,9 +2,10 @@
 
 int main(int argc, char **argv)
 {
-	
+	new changes after lastname
 	
 	printf("Enter your name!\n")
+	fgets()
 	printf("Hello, Name")
 	return 0;
 }
