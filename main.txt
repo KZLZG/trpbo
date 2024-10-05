@@ -2,6 +2,9 @@
 
 int main(int argc, char **argv)
 {
-	printf("Hello world!\n")
+	
+	
+	printf("Enter your name!\n")
+	printf("Hello, Name")
 	return 0;
 }
